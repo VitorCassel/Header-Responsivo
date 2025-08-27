@@ -43,9 +43,3 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 
 ---
 
-## Autor
-
-**[Seu Nome ou Nome de Usuário do GitHub]**
-
-* **GitHub:** [Link para seu perfil do GitHub]
-* **LinkedIn (Opcional):** [Link para seu perfil do LinkedIn]
